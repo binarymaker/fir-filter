@@ -12,7 +12,7 @@ finite impulse response (FIR) digital filter for microcontroller
 
 # Code usage
 
-```
+```c
 /* Include library */
 #include "fir.h"
 
